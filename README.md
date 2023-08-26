@@ -1,6 +1,6 @@
 # Muhammad Usama Ali
 
-## Mobile App Developer and Designer
+#### Mobile App Developer and Designer
 
 ![Mobile App Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
