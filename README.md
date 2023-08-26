@@ -1,6 +1,6 @@
-### Hi there 👋, Muhammad Usama Ali
+# Muhammad Usama Ali
 
-#### Mobile App Developer and Designer
+## Mobile App Developer and Designer
 
 ![Mobile App Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -8,4 +8,4 @@ I'm Usama Ali from Pakistan, and i do mobile app and web api design and developm
 
 Skills: Flutter / Javascript / Node JS
 
-- 🔭 I’m currently working on this page.
+- mobi
