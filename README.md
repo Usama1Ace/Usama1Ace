@@ -1,4 +1,4 @@
-![Mobile App Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Mobile App Developer and Designer](https://github.com/Usama1Ace/Usama1Ace/blob/master/Profile-banner.png)
 
 # Muhammad Usama Ali
 
